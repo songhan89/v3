@@ -1,6 +1,9 @@
 # Sample Code for V3 data extraction using Kerchunk and Zarr
 
+Sample data and code.
+
 @author: [Wong Songhan](songhan89@gmail.com)
+
 @date: 2024-06-17
 
 ## Introduction
